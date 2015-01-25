@@ -1,0 +1,31 @@
+body {
+	text-align: center;
+	padding: 80px;
+	background: #f8f8f8;
+	color: #777;
+	font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+h1 {
+	text-transform: uppercase;
+	letter-spacing: 0.08em;
+	font-size: 20px;
+	padding: 20px 0 15px;
+}
+
+img {
+	width: 300px;
+	border: 5px solid white;
+}
+
+ul {
+	list-style-type: none;
+	padding: 0;
+}
+
+li {
+	padding: 3px 0;
+	font-family: Cambria, "Hoefler Text", Utopia, "Liberation Serif", "Nimbus Roman No9 L Regular", Times, "Times New Roman", serif;
+	font-style: italic;
+	font-size: 17px;
+}
