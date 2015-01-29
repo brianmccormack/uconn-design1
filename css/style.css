@@ -31,3 +31,16 @@ li {
 	font-style: italic;
 	font-size: 17px;
 }
+
+p {
+	margin-top: 40px;
+}
+
+a {
+	color: #5eacee;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #008aff;
+}
