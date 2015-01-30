@@ -14,7 +14,7 @@ h1 {
 }
 
 img {
-	width: 300px;
+	max-width: 100%;
 	border: 5px solid white;
 	-webkit-box-shadow: 0 0 2px 1px #CFCFCF;
 	box-shadow: 0 0 2px 1px #CFCFCF;
